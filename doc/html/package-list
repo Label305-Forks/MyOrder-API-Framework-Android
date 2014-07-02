@@ -1,5 +1,3 @@
-com.api.cache
-com.api.cache.impl
 com.api.dao
 com.api.dao.db
 com.api.dao.helper
@@ -12,4 +10,3 @@ com.api.model.notification
 com.api.network
 com.api.network.parser
 com.api.utils
-test.catalog
